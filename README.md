@@ -1,2 +1,2 @@
-# Meteor-TakePic
-Take pic so basic with your phone's or desktop pc's camera.
+# meteorgram
+Example app to show how to use the Meteor Camera Package
